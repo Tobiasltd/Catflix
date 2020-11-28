@@ -24,6 +24,7 @@ yarn-error.log*
 
 movie-library
 /movie-library
-/lib
+/src/lib
+firebase.prod.js
 # Local Netlify folder
 .netlify
